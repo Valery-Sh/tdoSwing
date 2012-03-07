@@ -3,7 +3,7 @@
  *
  * Created on 5 Ноябрь 2006 г., 12:48
  *
- * To change this template, choose Tools | Template Manager
+ * 111 To change this template, choose Tools | Template Manager
  * and open the template in the editor.
  */
 package tdo.swing.bind;
